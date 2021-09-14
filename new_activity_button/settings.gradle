@@ -1,0 +1,2 @@
+rootProject.name = "new_activity_button"
+include ':app'
